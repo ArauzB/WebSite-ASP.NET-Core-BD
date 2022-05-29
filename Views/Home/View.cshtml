@@ -1,0 +1,85 @@
+﻿@model CineModel
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+  
+
+    
+}
+
+
+
+
+
+<div class="contenedor">
+
+    <h1 class="titulo-p">@Html.DisplayTextFor(m => m.Titulo)</h1>
+        <div class="content">
+            <div class="card-body1">
+                    <div class="img">
+                        <img src ="@Html.DisplayTextFor(m => m.Imagen)" class="img-pel1">
+                    </div>
+
+                    
+
+                    <div class="txt1">
+
+                        
+                    <p class="card-text1">Fecha de esrteno: </p>
+                    <p class="card-text2">@Html.DisplayTextFor(m => m.Fecha)</p>
+                    <p class="card-text1">Directores:</p>
+                    <p class="card-text2">@Html.DisplayTextFor(m => m.Director)</p>
+                    <p class="card-text1">Guion: </p>
+                    <p class="card-text2">@Html.DisplayTextFor(m => m.Guion)</p>
+                    <p class="card-text1">Título original:</p>
+                    <p class="card-text2">@Html.DisplayTextFor(m => m.Titulo)</p>
+
+
+
+
+
+                    </div>
+
+                    
+                    <div class="txt1">
+
+                        
+                    <p class="card-text1">Resumen: </p>
+                    <p class="card-text2" style="width: 200px;">@Html.DisplayTextFor(m => m.Comentario)</p>
+            
+
+
+
+
+
+                    </div>
+
+                    
+                </div>   
+                
+                                        
+            </div> 
+
+              @if(@Html.DisplayTextFor(m => m.Sinopsis) == "null" || @Html.DisplayTextFor(m => m.Sinopsis) == "Null"){
+                
+            <div class="video">
+                <h1 class="titulo-p"> Trailler de @Html.DisplayTextFor(m => m.Titulo)</h1>
+                <iframe width="926" height="530" src="@Html.DisplayTextFor(m => m.Trailer)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+              }else{
+                 <div class="sinopsis">
+                <h1 class="titulo-p"> Sinopsis de @Html.DisplayTextFor(m => m.Titulo)</h1>
+                <p class="card-text3">@Html.DisplayTextFor(m => m.Sinopsis) </p>
+            </div>
+            <div class="video">
+                <h1 class="titulo-p"> Trailler de @Html.DisplayTextFor(m => m.Titulo)</h1>
+                <iframe width="926" height="530" src="@Html.DisplayTextFor(m => m.Trailer)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>   
+
+
+
+              }
+           
+       
+</div>

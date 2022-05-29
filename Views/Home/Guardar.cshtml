@@ -1,0 +1,68 @@
+﻿@model CineModel
+@{
+    ViewData["Title"] = "Guardar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card1">
+  <div class="card-header1">
+    Registrarse
+  </div>
+  <div class="card-body1">
+    
+
+      <form asp-action="Guardar" asp-controller="Home" method="post">
+      <div class="mb-3">
+        <label class="form-label">Titulo</label>
+        <input asp-for="Titulo" type="text" class="form-control">
+        <span asp-validation-for="Titulo" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Comentario</label>
+        <input asp-for="Comentario" type="text" class="form-control">
+        <span asp-validation-for="Comentario" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Imagen</label>
+        <input asp-for="Imagen" type="text" class="form-control">
+        <span asp-validation-for="Imagen" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Fecha</label>
+        <input asp-for="Fecha" type="text" class="form-control">
+        <span asp-validation-for="Fecha" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Director</label>
+        <input asp-for="Director" type="text" class="form-control">
+        <span asp-validation-for="Director" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Guion</label>
+        <input asp-for="Guion" type="text" class="form-control">
+        <span asp-validation-for="Guion" class="text-danger"></span>
+      </div>
+         <div class="mb-3">
+        <label class="form-label">Sinopsis</label>
+        <input asp-for="Sinopsis" type="text" class="form-control">
+        <span asp-validation-for="Sinopsis" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Trailer</label>
+        <input asp-for="Trailer" type="text" class="form-control">
+        <span asp-validation-for="Trailer" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Categoria</label>
+        <input asp-for="Categoria" type="text" class="form-control">
+        <span asp-validation-for="Categoria" class="text-danger"></span>
+      </div>
+      
+       
+      <button type="submit" class="btn btn-primary">Registrar</button>
+      <a asp-action="ListarEdit" asp-controller="Home" class="btn btn-warning">Volver al inicio</a>
+    </form>
+
+
+  </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@model List<CineModel>
+
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var i = 0;
+}
+
+
+
+
+
+
+
+<div class="container">
+    <h1 class="titulo-p">Peliculas</h1>
+        <div class="row mb-5">
+            @foreach (var item in Model)
+                {
+
+
+
+  <div class="card-grid-space">
+    <a class="card" asp-action="View" asp-controller="Home" asp-route-ID="@item.ID" style="--bg-img: url(@item.Imagen)">
+      <div>
+        <h1>@item.Titulo</h1>
+        <p>@item.Comentario</p>
+        <div class="date">@item.Fecha</div>
+        <div class="tags">
+          <div class="tag">@item.Categoria</div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+
+
+            
+                   
+       
+               
+
+}
+           
+            </div>
+        </div>
+
+
+

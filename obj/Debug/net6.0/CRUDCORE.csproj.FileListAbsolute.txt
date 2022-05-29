@@ -1,0 +1,1624 @@
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/appsettings.Development.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/appsettings.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.staticwebassets.runtime.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.exe
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.deps.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.runtimeconfig.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ref/CRUDCORE.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.pdb
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Humanizer.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MessagePack.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MessagePack.Annotations.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Newtonsoft.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Common.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Configuration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Frameworks.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.LibraryModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Packaging.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.ProjectModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Protocol.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Versioning.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Convention.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Hosting.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Runtime.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.TypedParts.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Data.SqlClient.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.AssemblyReference.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.GeneratedMSBuildEditorConfig.editorconfig
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfoInputs.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfo.cs
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CoreCompileInputs.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.RazorAssemblyInfo.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.RazorAssemblyInfo.cs
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/staticwebassets.build.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/staticwebassets.development.json
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/scopedcss/bundle/CRUDCORE.styles.css
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/scopedcss/projectbundle/CRUDCORE.bundle.scp.css
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CopyComplete
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/ref/CRUDCORE.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.pdb
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.genruntimeconfig.cache
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/mscorlib.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/netstandard.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.AppContext.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Buffers.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Configuration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Console.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Core.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.Common.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Memory.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Mail.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Ping.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Requests.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Security.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ObjectModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Claims.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Json.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ValueTuple.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Web.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Windows.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/WindowsBase.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+E:/WorkSpaceAD/YOUTUBE/053_CURSO BASICO MVC CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cs
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/appsettings.Development.json
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/appsettings.json
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.deps.json
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.runtimeconfig.json
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/CRUDCORE.pdb
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/mscorlib.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/netstandard.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.AppContext.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Buffers.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Configuration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Console.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Data.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Memory.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Security.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Web.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Windows.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/refs/WindowsBase.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Humanizer.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MessagePack.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MessagePack.Annotations.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Configuration.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Packaging.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Protocol.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/NuGet.Versioning.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.AssemblyReference.cache
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.GeneratedMSBuildEditorConfig.editorconfig
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfoInputs.cache
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfo.cs
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CoreCompileInputs.cache
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cs
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cache
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CopyComplete
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/refint/CRUDCORE.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.pdb
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/CRUDCORE.genruntimeconfig.cache
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/obj/Debug/net6.0/ref/CRUDCORE.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Google.Protobuf.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Bcl.HashCode.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MySql.Data.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/MySql.Data.EntityFrameworkCore.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/ZstdNet.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/arauz/Descargas/Html/053_PROYECTO_CORE/CRUDCORE/CRUDCORE/bin/Debug/net6.0/web.config
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/web.config
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/appsettings.Development.json
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/appsettings.json
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/CRUDCORE
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/CRUDCORE.deps.json
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/CRUDCORE.runtimeconfig.json
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/CRUDCORE.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/CRUDCORE.pdb
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/mscorlib.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/netstandard.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.AppContext.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Buffers.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Configuration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Console.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Data.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Data.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Memory.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Security.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Web.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Windows.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/refs/WindowsBase.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Google.Protobuf.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Humanizer.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/MessagePack.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/MessagePack.Annotations.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.Bcl.HashCode.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/MySql.Data.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ZstdNet.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/MySql.Data.EntityFrameworkCore.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Configuration.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Packaging.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Protocol.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/NuGet.Versioning.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/arauz/Proyectos/CRUDCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.AssemblyReference.cache
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.GeneratedMSBuildEditorConfig.editorconfig
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfoInputs.cache
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.AssemblyInfo.cs
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CoreCompileInputs.cache
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cs
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.MvcApplicationPartsAssemblyInfo.cache
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.csproj.CopyComplete
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.dll
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/refint/CRUDCORE.dll
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.pdb
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/CRUDCORE.genruntimeconfig.cache
+/home/arauz/Proyectos/CRUDCORE/obj/Debug/net6.0/ref/CRUDCORE.dll
